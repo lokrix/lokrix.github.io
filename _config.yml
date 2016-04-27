@@ -5,7 +5,7 @@ description: Anything About Computing and Science
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: zh_HK
-url: //www.lokrix.net
+url: https://www.lokrix.net
 
 # Jekyll configuration
 
@@ -38,7 +38,7 @@ titlecase: true
 # Site owner
 owner:
   name: lokrix
-  web: http://www.lokrix.net
+  web: https://www.lokrix.net
   bio: Just Another Curious Boy
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
