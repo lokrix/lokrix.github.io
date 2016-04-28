@@ -5,7 +5,7 @@ modified: 2016-04-28T08:07:00+00:00
 categories: 
 excerpt:
 tags: []
-comment: true
+comments: true
 image:
   feature:
   teaser:
