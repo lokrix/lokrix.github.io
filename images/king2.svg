@@ -1,0 +1,26 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100" width="100" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="translate(0 -952.36)">
+  <g transform="translate(134.01 103.69)">
+   <g fill-rule="evenodd">
+    <path d="m-123.54 955.8c-3.7434-15.17-0.47602-34.37 2.9528-43.335-20.582-11.157 5.9488-38.093 20.776-17.799 13.496-4.7238 27.387-1.7451 33.935 0.20816 9.6414-17.622 36.163-1.4106 21.686 15.997 7.699 31.274 3.3658 44.509 3.3658 44.509z" stroke="#000" stroke-width="0.409" fill="#d9f381"/>
+    <path d="m-111.07 955.35c0.0355-4.3484 1.0356-8.6862 2.9076-12.611 2.8706-6.0188 7.82-11.022 13.807-13.957 5.9875-2.9355 12.974-3.784 19.49-2.3672 6.5161 1.4168 12.519 5.0896 16.747 10.246 4.228 5.1566 6.653 11.763 6.7653 18.431l-59.717 0.259z" stroke="#323232" stroke-width=".33517px" fill="#fff"/>
+    <ellipse id="path4766" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" rx="5.2953" ry="5.075" cy="919.6" cx="-52.942" fill="#ffbeff"/>
+   </g>
+   <use xlink:href="#path4766" transform="translate(-58.741 1.8892)" height="100%" width="100%" y="0" x="0"/>
+   <g stroke="#000">
+    <ellipse id="path4772" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" rx="1.099" ry="2.0495" stroke="#000" cy="912.1" cx="-86.113" stroke-width=".40877px"/>
+    <ellipse style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" rx="4.3545" ry="4.1559" cy="895.41" cx="-116.29" stroke-width=".29366px"/>
+    <path d="m-101.14 916.36c14.748 9.2986 22.535 5.3861 34.17 2.1471" stroke-width="0.4" fill="none"/>
+   </g>
+   <use xlink:href="#path4772" transform="translate(6.8871 .25581)" height="100%" width="100%" y="0" x="0"/>
+   <ellipse style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-rule="evenodd" rx="4.0581" ry="4.2568" stroke="#000" cy="894.92" cx="-51.743" stroke-width=".28692px"/>
+   <path d="m-105.12 870.04c8.9547 8.4398 10.159 10.512 12.972 17.282 7.4523 2.1588 16.954-0.39306 17.009-2.8481 0.19249-8.6344 0 0 4.0479-20.749 0.0666 0 0 0.19519 0 0.19519-14.199 18.945-14.447 4.6287-20.782-3.9038 6.4033 25.651-15.364 8.1144-13.247 10.023z" fill-rule="evenodd" stroke="#000" stroke-width=".31797px" fill="#ffff02"/>
+   <g fill-rule="evenodd" stroke="#000" stroke-width=".40877px" fill="#ffff02">
+    <ellipse style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" rx="2.1172" ry="1.9204" cy="859.78" cx="-70.614"/>
+    <ellipse style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" rx="2.1172" ry="1.9204" cy="856.09" cx="-92.996"/>
+    <ellipse style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto" rx="2.1172" ry="1.9204" cy="867.02" cx="-109.03"/>
+   </g>
+   <path d="m-83.758 928.75s-4.2868-2.7999-7.8915-3.488c-4.1307-0.7885-5.0914 8.3894-1.5783 10.335 2.7892 1.5444 6.2763 1.7303 8.8384-4.0047 1.708 0.2764 3.1271 3.3902 5.2084 0 3.0556 2.4139 4.6514 5.3879 7.5758 4.0047 5.5823-2.6403 5.2349-6.3512 1.1048-10.464-5.5476-0.6192-5.1991 2.4953-8.8384 3.3588-1.4731-0.912-2.9462-2.1564-4.4192 0.2584z" fill-rule="evenodd" fill="#e00079"/>
+  </g>
+ </g>
+</svg>
