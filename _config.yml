@@ -39,8 +39,8 @@ titlecase: true
 owner:
   name: lokrix
   web: https://www.lokrix.net
-  bio: Just Another Curious Boy
-  avatar: telescope_64.svg # 160x160 px image for author byline
+  bio: A funny frog interested in everything about Science, Mathematics and Information Technology
+  avatar: king2.svg # 160x160 px image for author byline
   disqus-shortname: lokrixpersonalblog
 
 
