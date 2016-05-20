@@ -40,7 +40,7 @@ owner:
   name: lokrix
   web: https://www.lokrix.net
   bio: Just Another Curious Boy
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: telescope_64.svg # 160x160 px image for author byline
   disqus-shortname: lokrixpersonalblog
 
 
