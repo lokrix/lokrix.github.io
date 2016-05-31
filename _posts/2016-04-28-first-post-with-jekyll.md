@@ -22,6 +22,6 @@ jekyll 為static site generator support markdown (.md) file format,即係寫內�
 因為想要https 去保證web site integrity, (要end to end encryption 就唔用github pages 啦)
 所以用埋以下教學去setup
 
-[Set Up SSL on Github Pages With Custom Domains for Free]https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
+[Set Up SSL on Github Pages With Custom Domains for Free](https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/)
 
 比drupal同wordpress 好玩多了(我只試過這兩種CMS)
