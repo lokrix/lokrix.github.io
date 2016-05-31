@@ -16,6 +16,8 @@ github page, cloudflare and jekyll all are interesting new toy.
 
 Triggered 我去整個新personal blog, 所有野都係testing.
 
+*Edited 31-05-2016*
+
 jekyll 為static site generator support markdown (.md) file format,即係寫內容的人唔需要識HTML都可以做formatting
 維護比用sql 既各式CMS簡單得多,而且github page 完全support jekyll,連generate 個步都可以慳返
 
